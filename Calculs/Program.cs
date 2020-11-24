@@ -2,6 +2,7 @@
  * Application "Calculs" v01 (b5 a218)
  * author : Emds
  * date : 24/05/2020
+ * Commentaire pour tester Git Branche RevTest1 faite
  */
 using System;
 
